@@ -1,0 +1,17 @@
+Alice pick Pizza
+Bob delegate Caroline
+Dad
+ pick
+delegate Mom
+ pick Apple
+pick Apple
+Son pick
+Daughter delegate
+Caroline pick Salad
+Dave delegate Eve
+Eve delegate Mum
+Mum delegate Eve
+grammar picks apple
+grammer-supp delegates grammar
+second pick Apple
+ third pick Apple
